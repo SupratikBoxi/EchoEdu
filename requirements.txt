@@ -1,0 +1,9 @@
+openai
+whisper
+pyttsx3
+speechrecognition
+pyaudio
+opencv-python
+pytesseract
+torch
+transformers
